@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 861040e3bf4d5b346acb689dfaef5be7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5549709882304467003
+    second: roupa|0001_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer
+  - first:
+      74: 876164980271276067
+    second: roupa|0001_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer.001
+  - first:
+      74: -1186304363078045984
+    second: roupa|0002_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer
+  - first:
+      74: 1795487919227938724
+    second: roupa|0002_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer.001
+  - first:
+      74: -4225647545509550069
+    second: roupa|0003_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer
+  - first:
+      74: -1654179924937286159
+    second: roupa|0003_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer.001
+  - first:
+      74: 1022692202139320110
+    second: roupa|0004_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer
+  - first:
+      74: 3550381906515640597
+    second: roupa|0004_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer.001
+  - first:
+      74: 1239631095840313884
+    second: roupa|0005_mesh0.dat-fantasy_girl-5.001|Take 001|BaseLayer
+  - first:
+      74: 2235873948002215442
+    second: roupa|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer
+  - first:
+      74: 8474228437480738478
+    second: roupa|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.001
+  - first:
+      74: 2246116698015317016
+    second: roupa|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.002
+  - first:
+      74: -4007935502705517306
+    second: roupa|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.003
+  - first:
+      74: 3057527482287099647
+    second: roupa|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.004
+  - first:
+      74: -8237007251227506740
+    second: roupa|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.005
+  - first:
+      74: -330164223525705619
+    second: roupa|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.006
+  - first:
+      74: 6196267171891691611
+    second: roupa|mesh0|Take 001|BaseLayer
+  - first:
+      74: -4528696891977001837
+    second: roupa|mesh0|Take 001|BaseLayer.001
+  - first:
+      74: 5644541875856259187
+    second: roupa|roupaAction
+  - first:
+      74: 7848692812252335395
+    second: 0005_mesh0.dat-fantasy_girl-5|0001_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer
+  - first:
+      74: 3277322141925736333
+    second: 0005_mesh0.dat-fantasy_girl-5|0001_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer.001
+  - first:
+      74: 6216756438243975096
+    second: 0005_mesh0.dat-fantasy_girl-5|0002_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer
+  - first:
+      74: 2963069452557250966
+    second: 0005_mesh0.dat-fantasy_girl-5|0002_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer.001
+  - first:
+      74: 8575624971308384776
+    second: 0005_mesh0.dat-fantasy_girl-5|0003_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer
+  - first:
+      74: -2551211735770197993
+    second: 0005_mesh0.dat-fantasy_girl-5|0003_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer.001
+  - first:
+      74: -7561125457599642000
+    second: 0005_mesh0.dat-fantasy_girl-5|0004_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer
+  - first:
+      74: 8377015927075886115
+    second: 0005_mesh0.dat-fantasy_girl-5|0004_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer.001
+  - first:
+      74: 76731993287950259
+    second: 0005_mesh0.dat-fantasy_girl-5|0005_mesh0.dat-fantasy_girl-5.001|Take
+      001|BaseLayer
+  - first:
+      74: 2889963998388971062
+    second: 0005_mesh0.dat-fantasy_girl-5|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer
+  - first:
+      74: -4221061166737996329
+    second: 0005_mesh0.dat-fantasy_girl-5|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.001
+  - first:
+      74: 8177388387644313287
+    second: 0005_mesh0.dat-fantasy_girl-5|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.002
+  - first:
+      74: 1785960825889728252
+    second: 0005_mesh0.dat-fantasy_girl-5|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.003
+  - first:
+      74: 4741655502703398198
+    second: 0005_mesh0.dat-fantasy_girl-5|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.004
+  - first:
+      74: 2854392939987736652
+    second: 0005_mesh0.dat-fantasy_girl-5|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.005
+  - first:
+      74: 6632212047945795956
+    second: 0005_mesh0.dat-fantasy_girl-5|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.006
+  - first:
+      74: 1907621940421906446
+    second: 0005_mesh0.dat-fantasy_girl-5|mesh0|Take 001|BaseLayer
+  - first:
+      74: -7775227507450342648
+    second: 0005_mesh0.dat-fantasy_girl-5|mesh0|Take 001|BaseLayer.001
+  - first:
+      74: -9189689638588984219
+    second: 0005_mesh0.dat-fantasy_girl-5|roupaAction
+  - first:
+      74: 2068112838609010848
+    second: 0004_mesh0.dat-fantasy_girl-3|0001_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer
+  - first:
+      74: -2294774974768793298
+    second: 0004_mesh0.dat-fantasy_girl-3|0001_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer.001
+  - first:
+      74: 1005203243560332791
+    second: 0004_mesh0.dat-fantasy_girl-3|0002_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer
+  - first:
+      74: 8499781441033668090
+    second: 0004_mesh0.dat-fantasy_girl-3|0002_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer.001
+  - first:
+      74: 970419346327761121
+    second: 0004_mesh0.dat-fantasy_girl-3|0003_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer
+  - first:
+      74: -8512906114749615731
+    second: 0004_mesh0.dat-fantasy_girl-3|0003_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer.001
+  - first:
+      74: 5866892455243969187
+    second: 0004_mesh0.dat-fantasy_girl-3|0004_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer
+  - first:
+      74: 9125005408656455800
+    second: 0004_mesh0.dat-fantasy_girl-3|0004_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer.001
+  - first:
+      74: 3036558881035755491
+    second: 0004_mesh0.dat-fantasy_girl-3|0005_mesh0.dat-fantasy_girl-5.001|Take
+      001|BaseLayer
+  - first:
+      74: -7956543283547413797
+    second: 0004_mesh0.dat-fantasy_girl-3|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer
+  - first:
+      74: -685234722591396204
+    second: 0004_mesh0.dat-fantasy_girl-3|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.001
+  - first:
+      74: 3043391919382507057
+    second: 0004_mesh0.dat-fantasy_girl-3|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.002
+  - first:
+      74: -7982207138041372090
+    second: 0004_mesh0.dat-fantasy_girl-3|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.003
+  - first:
+      74: -8298829136205003328
+    second: 0004_mesh0.dat-fantasy_girl-3|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.004
+  - first:
+      74: 5206321228792924021
+    second: 0004_mesh0.dat-fantasy_girl-3|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.005
+  - first:
+      74: 4366078351528942826
+    second: 0004_mesh0.dat-fantasy_girl-3|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.006
+  - first:
+      74: -2360676935312985915
+    second: 0004_mesh0.dat-fantasy_girl-3|mesh0|Take 001|BaseLayer
+  - first:
+      74: -6189902068237439264
+    second: 0004_mesh0.dat-fantasy_girl-3|mesh0|Take 001|BaseLayer.001
+  - first:
+      74: 8727888467487250649
+    second: 0004_mesh0.dat-fantasy_girl-3|roupaAction
+  - first:
+      74: -3213473070246631867
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0001_mesh0.dat-fantasy_girl-1|Take
+      001|BaseLayer
+  - first:
+      74: -5283915318445586796
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0001_mesh0.dat-fantasy_girl-1|Take
+      001|BaseLayer.001
+  - first:
+      74: -5610348526492640848
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0002_mesh0.dat-fantasy_girl-1|Take
+      001|BaseLayer
+  - first:
+      74: -8730706908034188660
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0002_mesh0.dat-fantasy_girl-1|Take
+      001|BaseLayer.001
+  - first:
+      74: -6646676584614835237
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0003_mesh0.dat-fantasy_girl-3|Take
+      001|BaseLayer
+  - first:
+      74: 7794528507888337085
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0003_mesh0.dat-fantasy_girl-3|Take
+      001|BaseLayer.001
+  - first:
+      74: -2118500486162370446
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0004_mesh0.dat-fantasy_girl-3|Take
+      001|BaseLayer
+  - first:
+      74: -2380659358421763608
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0004_mesh0.dat-fantasy_girl-3|Take
+      001|BaseLayer.001
+  - first:
+      74: -7226631957215042952
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0005_mesh0.dat-fantasy_girl-5.001|Take
+      001|BaseLayer
+  - first:
+      74: 3698479778618440722
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer
+  - first:
+      74: -1203987312783443942
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.001
+  - first:
+      74: -420300670763640514
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.002
+  - first:
+      74: -2513104589806690170
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.003
+  - first:
+      74: 4865505333056115063
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.004
+  - first:
+      74: 2066573894856528549
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.005
+  - first:
+      74: 3265868589255011816
+    second: 0005_mesh0.dat-fantasy_girl-5.002|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.006
+  - first:
+      74: 3240164210958298876
+    second: 0005_mesh0.dat-fantasy_girl-5.002|mesh0|Take 001|BaseLayer
+  - first:
+      74: 6426906962005427266
+    second: 0005_mesh0.dat-fantasy_girl-5.002|mesh0|Take 001|BaseLayer.001
+  - first:
+      74: -2869819491441621798
+    second: 0005_mesh0.dat-fantasy_girl-5.002|roupaAction
+  - first:
+      74: -3762452094048032309
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0001_mesh0.dat-fantasy_girl-1|Take
+      001|BaseLayer
+  - first:
+      74: 3731431903390667028
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0001_mesh0.dat-fantasy_girl-1|Take
+      001|BaseLayer.001
+  - first:
+      74: 4660479283384942582
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0002_mesh0.dat-fantasy_girl-1|Take
+      001|BaseLayer
+  - first:
+      74: 3839435547909750401
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0002_mesh0.dat-fantasy_girl-1|Take
+      001|BaseLayer.001
+  - first:
+      74: 3852288485148151456
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0003_mesh0.dat-fantasy_girl-3|Take
+      001|BaseLayer
+  - first:
+      74: 6145368805190135853
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0003_mesh0.dat-fantasy_girl-3|Take
+      001|BaseLayer.001
+  - first:
+      74: -8340685420702307650
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0004_mesh0.dat-fantasy_girl-3|Take
+      001|BaseLayer
+  - first:
+      74: 7833583058191033521
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0004_mesh0.dat-fantasy_girl-3|Take
+      001|BaseLayer.001
+  - first:
+      74: -2208735115733542957
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0005_mesh0.dat-fantasy_girl-5.001|Take
+      001|BaseLayer
+  - first:
+      74: 8320544725375445962
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer
+  - first:
+      74: -1208649471236700550
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.001
+  - first:
+      74: 5760729945929928208
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.002
+  - first:
+      74: 2758112583220007918
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.003
+  - first:
+      74: -4200115308889168059
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.004
+  - first:
+      74: 3641676573964928019
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.005
+  - first:
+      74: 5351898800763283266
+    second: 0005_mesh0.dat-fantasy_girl-5.001|0005_mesh0.dat-fantasy_girl-5|Take
+      001|BaseLayer.006
+  - first:
+      74: -7539521947660687140
+    second: 0005_mesh0.dat-fantasy_girl-5.001|mesh0|Take 001|BaseLayer
+  - first:
+      74: 4277904604840305310
+    second: 0005_mesh0.dat-fantasy_girl-5.001|mesh0|Take 001|BaseLayer.001
+  - first:
+      74: -2210484088134117199
+    second: 0005_mesh0.dat-fantasy_girl-5.001|roupaAction
+  - first:
+      74: -6863097211622675396
+    second: Armature|0001_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer
+  - first:
+      74: 4153236913157010917
+    second: Armature|0001_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer.001
+  - first:
+      74: 2735594515184838155
+    second: Armature|0002_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer
+  - first:
+      74: -4184213530569144168
+    second: Armature|0002_mesh0.dat-fantasy_girl-1|Take 001|BaseLayer.001
+  - first:
+      74: 3852774946868802533
+    second: Armature|0003_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer
+  - first:
+      74: 2864338305823025545
+    second: Armature|0003_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer.001
+  - first:
+      74: 8082274071231378594
+    second: Armature|0004_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer
+  - first:
+      74: 7516535963585459841
+    second: Armature|0004_mesh0.dat-fantasy_girl-3|Take 001|BaseLayer.001
+  - first:
+      74: -8759000706760764026
+    second: Armature|0005_mesh0.dat-fantasy_girl-5.001|Take 001|BaseLayer
+  - first:
+      74: 6215784834411784076
+    second: Armature|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer
+  - first:
+      74: -8126499900572158537
+    second: Armature|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.001
+  - first:
+      74: -4829815887033293497
+    second: Armature|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.002
+  - first:
+      74: -7950686415301720090
+    second: Armature|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.003
+  - first:
+      74: -3369478162839887924
+    second: Armature|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.004
+  - first:
+      74: -7013976728531170043
+    second: Armature|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.005
+  - first:
+      74: -6712524785936297413
+    second: Armature|0005_mesh0.dat-fantasy_girl-5|Take 001|BaseLayer.006
+  - first:
+      74: -5701045938790110901
+    second: Armature|Armature|Armature|Armature|Take 001|BaseLayer|Armature|Armature
+  - first:
+      74: -5286811126212645042
+    second: Armature|mesh0|Take 001|BaseLayer
+  - first:
+      74: 998509266225990833
+    second: Armature|mesh0|Take 001|BaseLayer.001
+  - first:
+      74: -5889199334017063920
+    second: Armature|roupaAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
